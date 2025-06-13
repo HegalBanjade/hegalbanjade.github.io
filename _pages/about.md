@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Thoughts.Arts.Books.Music.
+subtitle: Thoughts. Arts. Books. Music.
 
 profile:
   align: right
