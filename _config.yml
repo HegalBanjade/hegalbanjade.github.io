@@ -193,6 +193,7 @@ exclude:
   - vendor
   - references.bib
   - _bibliography
+  - _pages/cv.md
 keep_files:
   - CNAME
   - .nojekyll
