@@ -191,6 +191,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - references.bib
+  - _bibliography
 keep_files:
   - CNAME
   - .nojekyll
