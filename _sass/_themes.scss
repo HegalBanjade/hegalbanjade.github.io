@@ -6,11 +6,11 @@
 
 :root {
   color-scheme: light;
-  --global-bg-color: #{$egg-color};
+  --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$green-color};
+  --global-theme-color: #{$green-color-dark};
   --global-hover-color: #{$green-color};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
