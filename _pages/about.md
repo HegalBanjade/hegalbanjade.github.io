@@ -7,7 +7,7 @@ subtitle: Thoughts. Arts. Books. Music.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Currently based in Lexington, Kentucky.</p>
     <p></p>
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I was born in Nepal, but mostly grew up In the United States. I speak both English and Nepali; however, with Nepali put heavy emphasis on “speak”.
 
 
+With all the creative passions I have, I like to consider myself as belonging within the camp of “jack of all trades, master of none”. Generally, I hope to use this space as an archive for all the different things I do.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+My art and general world view is very influenced by my politics (this could also work vice versa). Politically I view myself as not necessarily having labels, but I believe in the dignity of all and the uplifting of the working and working poor.  
