@@ -5,6 +5,8 @@ description: a project with a background image and giscus comments
 importance: 2
 category: graphic design
 disqus_comments: true
+images:
+  slider: true
 ---
 
 This is a bomboclatt test.
