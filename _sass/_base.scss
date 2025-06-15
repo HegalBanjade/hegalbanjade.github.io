@@ -3,7 +3,12 @@
  ******************************************************************************/
 
 // Typography
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 300;
+}
 
+body,
 p,
 h1,
 h2,
@@ -1416,9 +1421,4 @@ figure.cover {
   a.cover-link:hover {
     color: #23212d !important;
   }
-}
-// fonts
-body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: 300;
 }
