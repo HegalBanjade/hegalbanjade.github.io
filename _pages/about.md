@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I was born in Nepal, but mostly grew up In the United States. I speak both English and Nepali, but with Nepali put heavy emphasis on “speak”.
+I was born in Nepal, but mostly grew up in Lexington, Kentucky. I speak both English and Nepali, but with Nepali put heavy emphasis on “speak”. 
 
 
-With all the creative passions I have, I like to consider myself as belonging within the camp of “jack of all trades, master of none”. Generally, I hope to use this space as an archive for all the different things I do.  
+With all the creative passions I have, I like to consider myself as belonging within the camp of “jack of all trades, master of none”. Generally, I hope to use this space as an archive for all the different things I do.    
 
 
 My art and world view is very much influenced by my politics (this could also work vice versa). Politically I view myself as not necessarily having labels, but I believe in the dignity & equality of all.
