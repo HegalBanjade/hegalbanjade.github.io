@@ -6,7 +6,7 @@ subtitle: Thoughts. Arts. Books. Music.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: giphy.gif
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Currently based in Lexington, Kentucky.</p>
