@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I was born in Nepal, but mostly grew up In the United States. I speak both English and Nepali; however, with Nepali put heavy emphasis on “speak”.
+I was born in Nepal, but mostly grew up In the United States. I speak both English and Nepali, but with Nepali put heavy emphasis on “speak”.
 
 
 With all the creative passions I have, I like to consider myself as belonging within the camp of “jack of all trades, master of none”. Generally, I hope to use this space as an archive for all the different things I do.  
 
 
-My art and general world view is very influenced by my politics (this could also work vice versa). Politically I view myself as not necessarily having labels, but I believe in the dignity of all and the uplifting of the working and working poor.  
+My art and world view is very much influenced by my politics (this could also work vice versa). Politically I view myself as not necessarily having labels, but I believe in the dignity & equality of all.
