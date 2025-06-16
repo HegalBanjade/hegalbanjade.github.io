@@ -9,7 +9,7 @@ images:
   slider: true
 ---
 
-This is a bomboclatt test.
+This is a test.
 
 <div class="row">
     <div class="col-lg mt-3 mt-md-0">
